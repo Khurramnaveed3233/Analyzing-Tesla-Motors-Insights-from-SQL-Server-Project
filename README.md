@@ -8,8 +8,8 @@ Key Focus Areas:
 
 1. Sales Performance Analysis 📊
 
-   -  Analyzed total sales for each vehicle model over the past year to identify top-performing and lagging models.
-   -  Uncovered seasonal sales trends to inform Tesla's production and marketing strategies.
+  -  Analyzed total sales for each vehicle model over the past year to identify top-performing and lagging models.
+  -  Uncovered seasonal sales trends to inform Tesla's production and marketing strategies.
 
 2. Customer Feedback Insights 💬
    
