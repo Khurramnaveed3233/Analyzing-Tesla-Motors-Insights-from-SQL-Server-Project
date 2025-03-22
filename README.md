@@ -6,9 +6,10 @@ I'm excited to share my recent SQL project where I conducted an in-depth analysi
 
 Key Focus Areas:
 
-Sales Performance Analysis 📊
-Analyzed total sales for each vehicle model over the past year to identify top-performing and lagging models.
-Uncovered seasonal sales trends to inform Tesla's production and marketing strategies.
+  --* Sales Performance Analysis 📊
+
+   -- *Analyzed total sales for each vehicle model over the past year to identify top-performing and lagging models.
+   -- *Uncovered seasonal sales trends to inform Tesla's production and marketing strategies.
 
 Customer Feedback Insights 💬
 Extracted and analyzed customer feedback to assess satisfaction levels for each vehicle model.
