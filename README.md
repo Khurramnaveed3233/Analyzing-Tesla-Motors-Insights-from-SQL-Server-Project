@@ -11,22 +11,22 @@ Key Focus Areas:
     -  Analyzed total sales for each vehicle model over the past year to identify top-performing and lagging models.
     -  Uncovered seasonal sales trends to inform Tesla's production and marketing strategies.
 
-2. Customer Feedback Insights 💬
+3. Customer Feedback Insights 💬
    
     -  Extracted and analyzed customer feedback to assess satisfaction levels for each vehicle model.
     -  Identified common themes in customer comments to highlight areas for product improvement.
 
-3. Inventory Management Optimization 🏭
+4. Inventory Management Optimization 🏭
 
     -  Assessed current inventory levels to ensure optimized stock and prevent overstocking or shortages.
     -  Correlated sales data with inventory trends to enhance demand forecasting.
 
-4. Service Record Analysis 🔧
+5. Service Record Analysis 🔧
 
     -  Analyzed service requests to identify the most common issues and reduce maintenance costs.
     -  Evaluated the correlation between service frequency and customer satisfaction to improve Tesla's service operations.
 
-5. Promotion Effectiveness Evaluation 📈
+6. Promotion Effectiveness Evaluation 📈
 
     -  Assessed the revenue impact of promotions and identified which promotional strategies drove the highest sales.
     -  Compared sales data during promotional and non-promotional periods to measure the effectiveness of Tesla’s marketing efforts.
