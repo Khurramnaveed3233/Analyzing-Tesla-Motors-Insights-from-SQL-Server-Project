@@ -17,3 +17,14 @@ This project demonstrates my ability to:
 
   - Translate data into business value
 
+#  🗃️ Data Domains Analyzed
+
+  - Orders – Vehicle sales data
+
+  - Vehicles – Product catalog
+
+  - Inventory – Stock availability
+
+  - CustomerFeedback – Ratings and text reviews
+
+  - ServiceRecords – Vehicle servicing data
