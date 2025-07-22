@@ -1,6 +1,6 @@
 # 🚗 SQL Portfolio Project: Analyzing Operational Challenges at Tesla Motors
 
-![tesla](https://github.com/user-attachments/assets/ba159cda-168d-47af-a3b7-bbb433ea7f35
+<img width="753" height="423" alt="405613243-ba159cda-168d-47af-a3b7-bbb433ea7f35" src="https://github.com/user-attachments/assets/68a19038-452d-4a13-9a23-da76f8fd95bf" />
 
 # 📘 About the Project
 
@@ -130,18 +130,6 @@ By analyzing Tesla’s sales, inventory, customer sentiment, and service operati
 - Realistic, multi-domain use case  
 - Actionable recommendations for business improvement  
 - Suitable for roles in data analysis, business intelligence, and operations analytics  
-
----
-
-## 🎥 (Optional) Video Walkthrough Suggestion
-
-**Title:** _Tesla Operational Analytics | SQL Portfolio Project Walkthrough_
-
-**Content Ideas:**
-- Quick intro to dataset and business context  
-- Domain-by-domain insights (Sales → Feedback → Inventory → Service)  
-- Power BI dashboard overview  
-- Final insights and recommendations summary
 
 
 
