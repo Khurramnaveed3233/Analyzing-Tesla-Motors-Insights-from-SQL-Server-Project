@@ -1,4 +1,4 @@
-# 🚗 SQL Portfolio Project: Analyzing Operational Challenges at Tesla Motors
+# SQL Portfolio Project: Analyzing Operational Challenges at Tesla Motors
 
 <img width="753" height="423" alt="405613243-ba159cda-168d-47af-a3b7-bbb433ea7f35" src="https://github.com/user-attachments/assets/68a19038-452d-4a13-9a23-da76f8fd95bf" />
 
