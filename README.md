@@ -72,6 +72,7 @@ GROUP BY v.VehicleID, v.Model
 ORDER BY highest_sales_volume DESC;
 
 
+---
 
 ## 💡 Key Insights & Recommendations
 
